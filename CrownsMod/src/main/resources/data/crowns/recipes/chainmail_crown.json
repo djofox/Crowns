@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "I#I"
+    ],
+    "key": {
+        "#": {
+            "item": "crowns:binding"
+        },
+        "A": {
+            "item": "crowns:soul_stone"
+        },
+        "I": {
+            "item": "minecraft:chain"
+        }
+    },
+    "result": {
+        "item": "crowns:chainmail_crown",
+        "count": 1
+    }
+}

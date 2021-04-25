@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "I#I"
+    ],
+    "key": {
+        "#": {
+            "item": "crowns:binding"
+        },
+        "A": {
+            "item": "crowns:soul_stone"
+        },
+        "I": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+        "item": "crowns:shulker_crown",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"effect.crowns.more_health": "Extra Hearts",
+	"itemGroup.crownsTab": "Crowns",
+	"item.crowns.soul_stone": "Soul Stone",
+	"item.crowns.binding": "Binding",
+	"item.crowns.gloop": "Gloop",
+	
+	"item.crowns.leather_crown": "Leather Crown",
+	"item.crowns.chainmail_crown": "Chainmail Crown",
+	"item.crowns.gold_crown": "Gold Crown",
+	"item.crowns.iron_crown": "Iron Crown",
+	"item.crowns.diamond_crown": "Diamond Crown",
+	"item.crowns.netherite_crown": "Netherite Crown",
+	"item.crowns.shulker_crown": "Shulker Crown"
+}

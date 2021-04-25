@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:stone"
+    },
+    "addition": {
+        "item": "minecraft:skeleton_skull"
+    },
+    "result": {
+        "item": "crowns:soul_stone"
+    }
+}
