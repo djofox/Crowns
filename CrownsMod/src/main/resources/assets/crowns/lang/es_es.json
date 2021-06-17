@@ -1,0 +1,15 @@
+{
+	"effect.crowns.more_health": "Corazones extras",
+	"itemGroup.crownsTab": "Coronas",
+	"item.crowns.soul_stone": "Piedra de alma",
+	"item.crowns.binding": "Ligamiento",
+	"item.crowns.gloop": "Grumo",
+	
+	"item.crowns.leather_crown": "Corona de cuero",
+	"item.crowns.chainmail_crown": "Corona de cota de mallas",
+	"item.crowns.gold_crown": "Corona de oro",
+	"item.crowns.iron_crown": "Corona de hierro",
+	"item.crowns.diamond_crown": "Corona de diamante",
+	"item.crowns.netherite_crown": "Corona de netherita",
+	"item.crowns.shulker_crown": "Corona de shulker"
+}
