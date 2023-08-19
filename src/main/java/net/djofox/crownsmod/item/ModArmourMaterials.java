@@ -33,7 +33,7 @@ public enum ModArmourMaterials implements ArmorMaterial {
     }), 15, SoundEvents.ARMOR_EQUIP_NETHERITE, 4.0F, -0.1F, () -> {
         return Ingredient.of(Items.NETHERITE_SCRAP);
     }),
-        GOLDENCROWN(CrownsMod.MOD_ID + ":golden_crown", 14, Util.make(new EnumMap<>(ArmorItem.Type.class), (p_266655_) -> {
+        GOLDENCROWN(CrownsMod.MOD_ID + ":golden_crown", 24, Util.make(new EnumMap<>(ArmorItem.Type.class), (p_266655_) -> {
         p_266655_.put(ArmorItem.Type.BOOTS, 3);
         p_266655_.put(ArmorItem.Type.LEGGINGS, 6);
         p_266655_.put(ArmorItem.Type.CHESTPLATE, 8);

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "N": {
-      "tag": "crownsmod:binding"
+      "item": "crownsmod:binding"
     },
     "$": {
       "item": "crownsmod:soul_stone"
