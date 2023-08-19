@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "tag": "crownsmod:binding"
+    },
+    "$": {
+      "item": "crownsmod:soul_stone"
+    },
+    "P": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "N$N",
+    "PNP"
+  ],
+  "result": {
+    "count": 1,
+    "item": "crownsmod:iron_crown"
+  },
+  "show_notification": true
+}

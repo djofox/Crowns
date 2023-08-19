@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "tag": "crownsmod:binding"
+    },
+    "$": {
+      "item": "crownsmod:soul_stone"
+    },
+    "P": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "N$N",
+    "PNP"
+  ],
+  "result": {
+    "count": 1,
+    "item": "crownsmod:leather_crown"
+  },
+  "show_notification": true
+}

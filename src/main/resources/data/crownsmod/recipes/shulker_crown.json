@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "tag": "crownsmod:binding"
+    },
+    "$": {
+      "item": "crownsmod:soul_stone"
+    },
+    "P": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "pattern": [
+    "N$N",
+    "PNP"
+  ],
+  "result": {
+    "count": 1,
+    "item": "crownsmod:shulker_crown"
+  },
+  "show_notification": true
+}
