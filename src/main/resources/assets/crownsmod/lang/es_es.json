@@ -1,0 +1,21 @@
+{
+  "item.crownsmod.soul_stone": "Piedra de alma",
+  "item.crownsmod.binding": "Ligamiento",
+  "item.crownsmod.gloop": "Grumo",
+
+  "item.crownsmod.leather_crown": "Corona de cuero",
+  "item.crownsmod.chainmail_crown": "Corona de cota de mallas",
+  "item.crownsmod.gold_crown": "Corona de oro",
+  "item.crownsmod.iron_crown": "Corona de hierro",
+  "item.crownsmod.diamond_crown": "Corona de diamante",
+  "item.crownsmod.netherite_crown": "Corona de netherita",
+  "item.crownsmod.shulker_crown": "Corona de shulker",
+
+  "effect.crownsmod.more_hearts": "Corazones extras",
+  "effect.crownsmod.freeze": "Freeze",
+
+  "text.crownsmod.gcfailed": "No hay minerales",
+
+  "creativetab.crownsmod": "Coronas"
+
+}

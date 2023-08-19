@@ -1,0 +1,22 @@
+{
+
+  "item.crownsmod.soul_stone": "Soul Stone",
+  "item.crownsmod.binding": "Binding",
+  "item.crownsmod.gloop": "Gloop",
+
+  "item.crownsmod.leather_crown": "Leather Crown",
+  "item.crownsmod.chainmail_crown": "Chainmail Crown",
+  "item.crownsmod.golden_crown": "Golden Crown",
+  "item.crownsmod.iron_crown": "Iron Crown",
+  "item.crownsmod.diamond_crown": "Diamond Crown",
+  "item.crownsmod.netherite_crown": "Netherite Crown",
+  "item.crownsmod.shulker_crown": "Shulker Crown",
+
+  "effect.crownsmod.more_hearts": "More Hearts",
+  "effect.crownsmod.freeze": "Freeze",
+
+  "text.crownsmod.gcfailed": "No ores found",
+
+  "creativetab.crownsmod": "Crowns"
+
+}

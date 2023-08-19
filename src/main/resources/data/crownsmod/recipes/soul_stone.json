@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "crownsmod:skulls"
+    },
+    "x": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    " x ",
+    "x#x",
+    " x "
+  ],
+  "result": {
+    "count": 1,
+    "item": "crownsmod:soul_stone"
+  },
+  "show_notification": true
+}
