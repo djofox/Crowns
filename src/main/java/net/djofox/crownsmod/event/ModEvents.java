@@ -142,7 +142,7 @@ public class ModEvents {
                     player.addEffect(new MobEffectInstance(MobEffects.SLOW_FALLING, 2, 1, false, false, false));
                 }
             }
-
+//
         }
 
         public static void treasure(Player player, int set){
